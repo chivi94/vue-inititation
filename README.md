@@ -18,3 +18,4 @@ Commands (in terminal):
   - If its the first time, create with default settings.
   - Otherwise, select 'manually select features' and check whatever you want (Vuex and Router recommended).
 - To run the app: npm run serve (it starts a development server in https://localhost:8080)
+- After cloning Vue project locally, you need to install all the dependencies with (in project directory): npm install.
