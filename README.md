@@ -12,6 +12,7 @@ We need to install:
 - Vue cli
 
 Commands (in terminal):
+- Install node: https://nodejs.org/es/download/ (select your OS)
 - npm install -g @vue/cli.
 - Check version with: vue --version.
 - To create new project: vue create projectName
