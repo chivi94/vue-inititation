@@ -2,6 +2,7 @@
 An inititation to vue framework
 
 All credits to: https://www.youtube.com/watch?v=4deVCNJq3qc&t=10075s
+
 View her repo in: 
 - Quiz app: https://github.com/gwenf/vue-quiz
 - Pets app: https://github.com/gwenf/vue-adopt-pets
